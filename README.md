@@ -73,6 +73,9 @@ The application connects to MongoDB using Mongoose. The connection string is sto
 - `DELETE /api/events/:id` - Delete an event
 - `POST /api/events/:id/register` - Register for an event
 
+##Live Demo
+(https://dazzling-sfogliatella-7788ac.netlify.app/events)
+
 ### Users
 - `POST /api/users/register` - Register a new ![Screenshot 2025-03-01 173922](https://github.com/user-attachments/assets/e4cf0866-8c5e-45a2-8b3f-16c0598210a0)
 ![Screenshot 2025-03-01 173825](https://github.com/user-attachments/assets/e24959e2-b96e-45a1-a09e-a77aafaa8e24)
