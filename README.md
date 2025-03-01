@@ -73,7 +73,7 @@ The application connects to MongoDB using Mongoose. The connection string is sto
 - `DELETE /api/events/:id` - Delete an event
 - `POST /api/events/:id/register` - Register for an event
 
-##Live Demo
+LIVE DEMO
 (https://dazzling-sfogliatella-7788ac.netlify.app/events)
 
 ### Users
