@@ -28,7 +28,7 @@ A full-stack event management application built with React, Node.js, Express, an
 1. Create a `.env` file in the root directory with the following variables:
 
 ```
-MONGODB_URI=mongodb+srv://your_username:your_password@your_cluster.mongodb.net/eventdb?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://alankritsrivastava2k4:<alankrit>@cluster0.hdj9w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 VITE_API_URL=http://localhost:5000/api
 ```
 
@@ -74,7 +74,9 @@ The application connects to MongoDB using Mongoose. The connection string is sto
 - `POST /api/events/:id/register` - Register for an event
 
 ### Users
-- `POST /api/users/register` - Register a new user
+- `POST /api/users/register` - Register a new ![Screenshot 2025-03-01 173922](https://github.com/user-attachments/assets/e4cf0866-8c5e-45a2-8b3f-16c0598210a0)
+![Screenshot 2025-03-01 173825](https://github.com/user-attachments/assets/e24959e2-b96e-45a1-a09e-a77aafaa8e24)
+user
 - `POST /api/users/login` - Login a user
 - `GET /api/users/profile/:id` - Get user profile
 
